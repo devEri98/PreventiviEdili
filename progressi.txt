@@ -1,0 +1,12 @@
+Primo passo da fare: 
+ creare un progetto React Javascript in react; 
+
+ Andare a installare le dipendenze: 
+ 
+ npm install @radix-ui/react-icons lucide-react @radix-ui/react-slot
+ 
+ npm install @radix-ui/react-label @radix-ui/react-select
+ 
+ npm install tailwindcss postcss autoprefixer
+ 
+ npx tailwindcss init -p
